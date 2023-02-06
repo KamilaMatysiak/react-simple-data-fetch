@@ -1,0 +1,13 @@
+.App {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #fff;
+}
+
+.table {
+    border: 1px solid rgba(0,0,0,0.12);
+    width: 1200px;
+    padding: 32px;
+}
